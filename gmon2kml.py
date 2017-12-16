@@ -16,35 +16,35 @@ def kml_content(w):
     <Style id="open">
         <IconStyle>
             <Icon>
-                <href>https://ypbind.de/maus/misc/open.png</href>
+                <href>icons/open.png</href>
             </Icon>
         </IconStyle>
     </Style>
     <Style id="wep">
         <IconStyle>
             <Icon>
-                <href>https://ypbind.de/maus/misc/wep.png</href>
+                <href>icons/wep.png</href>
             </Icon>
         </IconStyle>
     </Style>
     <Style id="wpapsk">
         <IconStyle>
             <Icon>
-                <href>https://ypbind.de/maus/misc/wpapsk.png</href>
+                <href>icons/wpapsk.png</href>
             </Icon>
         </IconStyle>
     </Style>
     <Style id="wpa2">
         <IconStyle>
             <Icon>
-                <href>https://ypbind.de/maus/misc/wpa2.png</href>
+                <href>icons/wpa2.png</href>
             </Icon>
         </IconStyle>
     </Style>
     <Style id="unknown">
         <IconStyle>
             <Icon>
-                <href>https://ypbind.de/maus/misc/unknown.png</href>
+                <href>icons/unknown.png</href>
             </Icon>
         </IconStyle>
     </Style>
